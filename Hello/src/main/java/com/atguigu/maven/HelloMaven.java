@@ -8,5 +8,6 @@ public class HelloMaven {
     public void say(String name){
         System.out.println("hello maven!"+name);
         System.out.println("hello git2!!!");
+        System.out.println("hello git3!!!");
     }
 }
