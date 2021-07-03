@@ -9,5 +9,6 @@ public class HelloMaven {
         System.out.println("hello maven!"+name);
         System.out.println("hello git2!!!");
         System.out.println("hello git3!!!");
+        System.out.println("主干添加");
     }
 }
